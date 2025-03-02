@@ -15,7 +15,7 @@ O projeto aplica conceitos de **Programação Orientada a Objetos (POO)**, utili
 1. Execute o arquivo Python no terminal ou prompt de comando:  
 
    ```bash
-   python fighting_game.py
+   python jogo.py
 2. Informe os nomes e habilidades especiais dos personagens quando solicitado.
 3. Durante a batalha, escolha entre:
     1 para ataque normal
